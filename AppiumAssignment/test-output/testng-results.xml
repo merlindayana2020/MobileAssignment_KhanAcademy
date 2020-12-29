@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="164651" started-at="2020-12-29T15:14:06Z" finished-at="2020-12-29T15:16:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="164651" started-at="2020-12-29T15:14:06Z" finished-at="2020-12-29T15:16:51Z">
+      <class name="IBM.AppiumAssignment.Testcases">
+        <test-method status="PASS" signature="bc()[pri:0, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="bc" is-config="true" duration-ms="78756" started-at="2020-12-29T15:14:06Z" finished-at="2020-12-29T15:15:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="login()[pri:0, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="login" duration-ms="32295" started-at="2020-12-29T15:15:25Z" finished-at="2020-12-29T15:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="am()[pri:0, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="am" is-config="true" duration-ms="2124" started-at="2020-12-29T15:15:57Z" finished-at="2020-12-29T15:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="joinClass()[pri:1, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="joinClass" duration-ms="19200" started-at="2020-12-29T15:15:59Z" finished-at="2020-12-29T15:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- joinClass -->
+        <test-method status="PASS" signature="am()[pri:0, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="am" is-config="true" duration-ms="2300" started-at="2020-12-29T15:16:19Z" finished-at="2020-12-29T15:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="manageTeachers()[pri:2, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="manageTeachers" duration-ms="18889" started-at="2020-12-29T15:16:21Z" finished-at="2020-12-29T15:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageTeachers -->
+        <test-method status="PASS" signature="am()[pri:0, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="am" is-config="true" duration-ms="2211" started-at="2020-12-29T15:16:40Z" finished-at="2020-12-29T15:16:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="enableAutoDownload()[pri:4, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="enableAutoDownload" duration-ms="6186" started-at="2020-12-29T15:16:42Z" finished-at="2020-12-29T15:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enableAutoDownload -->
+        <test-method status="PASS" signature="am()[pri:0, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="am" is-config="true" duration-ms="2561" started-at="2020-12-29T15:16:48Z" finished-at="2020-12-29T15:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:IBM.AppiumAssignment.Testcases@50b494a6]" name="ac" is-config="true" duration-ms="62" started-at="2020-12-29T15:16:51Z" finished-at="2020-12-29T15:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- IBM.AppiumAssignment.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
